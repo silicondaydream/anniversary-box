@@ -4,8 +4,8 @@
 For our most recent anniversary, my wife and I made each other gifts. I created this joystick controlled timebox that displays how long we've been together in different increments of time (years, months, weeks, days, minutes).
 
 ![Screenshot](/images/IMG_5863.png)
-![Screenshot](/images/IMG_5864.png)
-![Screenshot](/images/IMG_5865.png)
+![Screenshot](/images/IMG_5864.PNG)
+![Screenshot](/images/IMG_5865.PNG)
 
 ## Components
 - `elegoo Uno R3` - main controller.
