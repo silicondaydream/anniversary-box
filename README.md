@@ -34,7 +34,7 @@ For our most recent anniversary, my wife and I made each other gifts. I created 
 - Elegoo controller board (cheaper Arduino dupe)
 
 ## Usage
-This project is intended for an adult sized mask 
+This project is intended for my wife lol
 
 ## Collaboration and Contributions
 Feel free to augment or improve upon this design.
